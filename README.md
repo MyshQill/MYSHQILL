@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">STATS</h1>
+<h1 align="center">STACKS</h1>
 
 ###
 
