@@ -1,16 +1,10 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif?cid=790b7611f961ea7ae07272b8e9104d73a1e612735b3b41e5&rid=giphy.gif&ct=s"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MyshQill.MyshQill&"  />
 </div>
 
 ###
 
-<h3 align="center" >MY STATS</h3>
+<h3 align="center">MY STATS</h3>
 
 ###
 
@@ -20,7 +14,7 @@
 
 ###
 
-<h1 align="center">STACKS</h1>
+<h1 align="center">STATS</h1>
 
 ###
 
